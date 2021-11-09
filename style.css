@@ -1,8 +1,51 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
 
 canvas {
   display: block;
+}
+
+.netflixButton {
+  width: 100px;
+  height: 30px;
+  background-color: black;
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  font-size: 20;
+  font-family: "Roboto Mono";
+  font-weight: bold;
+}
+
+.textBar {
+  width: 200px;
+  background-color: black;
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  font-size: 20;
+  font-family: "Roboto Mono";
+  font-weight: bold;
+  animation-fill-mode: none;
+}
+
+.maskButton {
+  width: 270px;
+  height: 30px;
+  background-color: black;
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  font-size: 20;
+  font-family: "Roboto Mono";
+  font-weight: bold;
 }
