@@ -9,7 +9,7 @@ let netflixButton;
 let enterButton;
 
 //instruction string
-let instructions = "WRI YOUR NAME";
+let instructions = "WRITE YOUR NAME";
 let textBar;
 
 //enter string
